@@ -34,7 +34,6 @@ function divide () {
 }
 // divide is the box name, and it knows to divide by 2, so that we can find the number to multiply the height by
 
-
 function multi () {
   width = document.getElementById('multi').value
   width = parseInt(width)
@@ -51,4 +50,4 @@ function ply () {
   document.getElementById('paragraph').innerHTML =
   number
 }
-// ply  is the box name, and its getting multi box and adding it together though the parseint, and its allowing it to write a text through the INNTER HTML Command 
+// ply  is the box name, and its getting multi box and adding it together though the parseint, and its allowing it to write a text through the INNTER HTML Command.
