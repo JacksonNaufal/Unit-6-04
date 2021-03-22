@@ -5,7 +5,7 @@ let height = 0
 
 document.getElementById('button').addEventListener('click', addition)
 document.getElementById('button').addEventListener('click', add)
-document.getElementById('divide').addEventListener('click', divide
+document.getElementById('divide').addEventListener('click', divide)
 document.getElementById('multiply').addEventListener('click', multi)
 document.getElementById('multiply').addEventListener('click',ply)
 
